@@ -1,11 +1,6 @@
-<?php
-$target=7;
-$array=[1,2,8,9,6,7,7];
-
- public function num($target){
-
-    for($array==7){
-
-    }
-}
-?>
+create table aaa(
+id INT(5) not null AUTO_INCREMENT,
+aaa_name varchar(50) NOT NULL,
+aaa_type varchar(50) NOT NULL,
+PRIMARY KEY (`id`)
+) ENGINE=MyISAM charset=utf8;,
